@@ -1,5 +1,4 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/essencedrain/tera/main/t_tera.png",
 		"url_png_logo": "https://raw.githubusercontent.com/essencedrain/tera/main/tera.png",
@@ -27,16 +26,5 @@
             "company": "..."
         },
         "rss": ""
-    },
-    "my-pool-ids": {
-        "0": "",
-        "1": ""
-    },
-    "when-satured-then-recommend": {
-        "0": "",
-        "1": ""
-    },
-    "telegram-admin-handle": {
-        "0": ""
     }
 }
