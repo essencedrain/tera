@@ -1,30 +1,6 @@
 {
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/essencedrain/tera/main/t_tera.png",
-		"url_png_logo": "https://raw.githubusercontent.com/essencedrain/tera/main/tera.png",
-        "location": "Seoul, South Korea",
-        "social": {
-            "twitter_handle": "",
-            "telegram_handle": "",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
-        },
-        "company": {
-            "name": "",
-            "addr": "",
-            "city": "Seoul",
-            "country": "South Korea",
-            "company_id": "",
-            "vat_id": ""
-        },
-        "about": {
-            "me": "...",
-            "server": "...",
-            "company": "..."
-        },
-        "rss": ""
+	"url_png_logo": "https://raw.githubusercontent.com/essencedrain/tera/main/tera.png"
     }
 }
