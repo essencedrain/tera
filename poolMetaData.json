@@ -2,5 +2,6 @@
 "name": "TERA",
 "description": "TERA",
 "ticker": "TERA",
-"homepage": "https://twitter.com/Tera82561247"
+"homepage": "https://twitter.com/Tera82561247",
+"extended": "https://raw.githubusercontent.com/essencedrain/tera/main/meta_extended.json"
 }
